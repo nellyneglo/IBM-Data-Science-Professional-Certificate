@@ -32,7 +32,6 @@ The following tools were utilized to complete the certification:
 
 [<img src="https://user-images.githubusercontent.com/52702712/198737283-f27df526-5d1f-41c9-b259-2cb5be49e988.png" height="75" alt="python">](https://www.w3schools.com/python/)
 [<img src="https://user-images.githubusercontent.com/52702712/198736730-54c64a0c-4d21-4cc6-95c7-2bdc532829a6.png" height="75" alt="jupyter">](https://docs.jupyter.org/en/latest/)
-[<img src="https://user-images.githubusercontent.com/52702712/198736642-4996fa57-8f26-4e00-911f-9d307859cc4d.png" height="75" alt="github">](https://rogerdudler.github.io/git-guide/)
 
 ---
 
@@ -69,6 +68,6 @@ Throughout the certification, the following Python libraries were employed:
 >### "Data is the Oil of information age, AI is the engine, Data Science is the laws of Physics that cause the combustion to occur and piston to move" 
 > ### ~ Bernard Marr
 
-![ViewCount](https://img.shields.io/views/github/nellyneglo/IBM-Data-Science-Professional-Certificate?style=flat&color=2ecc71)
+![ViewCount](https://views.whatilearened.today/views/github/nellyneglo/IBM-Data-Science-Professional-Certificate.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/nellyneglo/IBM-Data-Science-Professional-Certificate?style=flat&color=ff69b4)
 ![GitHub language count](https://img.shields.io/github/languages/count/nellyneglo/IBM-Data-Science-Professional-Certificate?style=flat&color=87ceeb)
