@@ -13,6 +13,19 @@ Here you’ll find:
 ---
 
 ## 📚 Courses
+| #   | Course                                                                                           | Status       |
+|-----|--------------------------------------------------------------------------------------------------|--------------|
+| 01  | [Introduction to Data Analytics](./01-Introduction%20to%20Data%20Analytics)                            | ✅ Completed |
+| 02  | [Excel Basics for Data Analysis](./02-Excel%20Basics%20for%20Data%20Analysis)                            | ✅ Completed |
+| 03  | [Data Visualization and Dashboards with Excel and Cognos](./03-Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)              | ✅ Completed |
+| 04  | [Python for Data Science, AI & Development](./04-Python%20for%20Data%20Science%20AI%20&%20Development)  | ✅ Completed |
+| 05  | [Python Project for Data Science](./05-Python%20Project%20for%20Data%20Science)                 | ✅ Completed |
+| 06  | [Databases and SQL for Data Science with Python](./06-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)                                | ✅ Completed |
+| 07  | [Data Analysis with Python](./07-Data%20Analysis%20with%20Python)                                 | ✅ Completed |
+| 08  | [Data Visualization with Python](./08-Data%20Visualization%20with%20Python)                            | ✅ Completed |
+| 09  | [IBM Data Analyst Capstone Project](./09-IBM%20Data%20Analyst%20Capstone%20Project)                 | ✅ Completed |
+| 10  | [Generative AI: Enhance your Data Analytics Career](./10-Generative%20AI%20Enhance%20your%20Data%20Analyst%20Career)                           | ✅ Completed |
+| 11  | [Data Analyst Career Guide and Interview Preparation](./11-Data%20Analyst%20Career%20Guide%20Interview%20Preparation)   
 
 - [x] [01. What is Data Science?](01.%20What%20is%20Data%20Science/)
 - [x] [02. Tools for Data Science](02.%20Tools%20for%20Data%20Science/)
@@ -26,6 +39,21 @@ Here you’ll find:
 - [ ] [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
 - [ ] [11. Generative AI: Elevate Your Data Science Career](11.%20Generative%20AI%20Elevate%20Your%20Data%20Science%20Career/)
 - [ ] [12.Data Scientist Career Guide and Interview Preparation](12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/)
+
+| Sr. No | Course                                                               |Status|
+|:------:|----------------------------------------------------------------------------|:--:|
+| 01.     | [What is Data Science?](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/01-What%20is%20Data%20Science.pdf)|✅|
+| 02.     | [Tools for Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/02-Tools%20for%20Data%20Science.pdf)|✅|
+| 03.     | [Data Science Methodology](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/03-Data%20Science%20Methodology.pdf)|✅|
+| 04.     | [Python for Data Science, AI & Development](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/04-Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)|✅|
+| 05.     | [Python Project for Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/05-Python%20Project%20for%20Data%20Science.pdf)|✅|   
+| 06.     | [Databases and SQL for Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/06-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf) 									    |✅|
+| 07.     | [Data Analysis with Python](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/07-Data%20analysis%20with%20Python.pdf)                   							|✅|
+| 08.     | [Data Visualization with Python](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/08-Data%20Visualization%20with%20Python.pdf)         								  |✅| 
+| 09.     | [Machine Learning with Python](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/09-Machine%20Learning%20with%20Python.pdf)                                      |✅| 
+| 10.     | [Applied Data Science Capstone](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/10.pdf)       |✅|  
+| 11.     | [Introduction to Data Science](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/Introduction%20to%20Data%20Science.pdf)         								  |✅| 
+| 12.     | [IBM DATA SCIENCE](https://github.com/ndohvich/IBM-Data-Science-Professional-Certificate/blob/main/certificates/Certification_finale.pdf)         								  |✅| 
 
 ---
 
