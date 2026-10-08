@@ -15,17 +15,18 @@ Here you’ll find:
 ## 📚 Courses
 | #   | Course                                                                                           | Status       |
 |-----|-------------------------------------------------------------|--------------|
-| 01  | [What is Data Science?]([./01-Introduction%20to%20Data%20Analytics](https://www.coursera.org/account/accomplishments/certificate/L0M8Q80VJUJL))     | ✅ Completed |
-| 02  | [Tools for Data Science]([./02-Excel%20Basics%20for%20Data%20Analysis](https://www.coursera.org/account/accomplishments/certificate/13UC6M25X31H))     | ✅ Completed |
-| 03  | [Data Science Methodology]([./03-Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos](https://www.coursera.org/account/accomplishments/certificate/CQQGALM9FEWH))     | ✅ Completed |
-| 04  | [Python for Data Science, AI & Development]([./04-Python%20for%20Data%20Science%20AI%20&%20Development](https://www.coursera.org/account/accomplishments/certificate/ZYFYYHSXIW90))  | ✅ Completed |
-| 05  | [Databases and SQL for Data Science with Python]([./06-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python](https://www.coursera.org/account/accomplishments/certificate/DLV8KN1KRNRM)](https://www.coursera.org/account/accomplishments/certificate/E4XVVV5D725K))             | ✅ Completed |
-| 06  | [Data Analysis w ith Python]([./06-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python](https://www.coursera.org/account/accomplishments/certificate/DLV8KN1KRNRM))          | ✅ Completed |
-| 07  | [Data Visu alization w ith Python]([./07-Data%20Analysis%20with%20Python](https://www.coursera.org/account/accomplishments/certificate/2S0CTIFOCZNL))       | ✅ Completed |
-| 08  | [Machine Learning w ith Python]([./08-Data%20Visualization%20with%20Python](https://www.coursera.org/account/accomplishments/certificate/NGU4L4XFY0LL))       | ✅ Completed |
-| 09  | [Applied Data Science Capstone]([./09-IBM%20Data%20Analyst%20Capstone%20Project](https://www.coursera.org/account/accomplishments/certificate/4CBYSIT7OP8F))   | ✅ Completed |
-| 10  | [Generative AI: Elevate You r Data Science Career]([./10-Generative%20AI%20Enhance%20your%20Data%20Analyst%20Career](https://www.coursera.org/account/accomplishments/certificate/443HC4UB8HGN))                  | ✅ Completed |
-| 11  | [Data Scientist Career Gu ide and Interview Preparation]([[./10-Generative%20AI%20Enhance%20your%20Data%20Analyst%20Career](https://www.coursera.org/account/accomplishments/certificate/443HC4UB8HGN)](https://www.coursera.org/account/accomplishments/certificate/QEHYODYQDNX2))   | ✅ Completed |
+| 01  | [What is Data Science?](https://www.coursera.org/account/accomplishments/specialization/PDWEKBHKA1FU)     | ✅ Completed |
+| 02  | [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/13UC6M25X31H)     | ✅ Completed |
+| 03  | [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/CQQGALM9FEWH)     | ✅ Completed |
+| 04  | [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/ZYFYYHSXIW90)  | ✅ Completed |
+| 05  | [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/FU65TPA18FNN)  | ✅ Completed |
+| 06  | [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/E4XVVV5D725K)             | ✅ Completed |
+| 07  | [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/DLV8KN1KRNRM)          | ✅ Completed |
+| 08  | [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/2S0CTIFOCZNL)       | ✅ Completed |
+| 09  | [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/NGU4L4XFY0LL)       | ✅ Completed |
+| 10  | [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/4CBYSIT7OP8F)   | ✅ Completed |
+| 11  | [Generative AI: Elevate Your Data Science Career](https://www.coursera.org/account/accomplishments/certificate/443HC4UB8HGN)                  | ✅ Completed |
+| 12  | [Data Scientist Career Gu ide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/QEHYODYQDNX2)   | ✅ Completed |
 
 ---
 
