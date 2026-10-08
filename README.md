@@ -8,7 +8,7 @@ The IBM Data Science Professional Certificate consists of 12 courses designed to
 
 Here you’ll find:
 - 📄 Course completion certificates
-- 📊 Capstone project showcasing real-world ...
+- 📊 Capstone project showcasing the application of data science techniques to a real-world problem
 
 ---
 
@@ -26,7 +26,7 @@ Here you’ll find:
 | 09  | [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/NGU4L4XFY0LL)       | ✅ Completed |
 | 10  | [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/4CBYSIT7OP8F)   | ✅ Completed |
 | 11  | [Generative AI: Elevate Your Data Science Career](https://www.coursera.org/account/accomplishments/certificate/443HC4UB8HGN)                  | ✅ Completed |
-| 12  | [Data Scientist Career Gu ide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/QEHYODYQDNX2)   | ✅ Completed |
+| 12  | [Data Scientist Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/QEHYODYQDNX2)   | ✅ Completed |
 
 ---
 
