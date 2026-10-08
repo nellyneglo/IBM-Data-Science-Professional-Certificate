@@ -1,0 +1,9 @@
+# 🚀 Capstone Project — SpaceX Falcon 9 Landing Prediction
+
+The final project focused on predicting whether the Falcon 9 first stage would successfully land after a SpaceX launch.
+
+The project followed an end-to-end data science workflow:
+
+Data Collection → Data Wrangling → Exploratory Data Analysis → SQL Analysis → Visualization → Machine Learning → Prediction
+
+The analysis combined historical launch data with statistical and machine learning techniques to identify factors associated with successful first-stage landings.
