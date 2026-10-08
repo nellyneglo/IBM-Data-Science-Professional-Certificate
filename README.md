@@ -15,7 +15,7 @@ Here you’ll find:
 ## 📚 Courses
 | #   | Course                                                                                           | Status       |
 |-----|-------------------------------------------------------------|--------------|
-| 01  | [What is Data Science?](https://www.coursera.org/account/accomplishments/specialization/PDWEKBHKA1FU)     | ✅ Completed |
+| 01  | [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/L0M8Q80VJUJL)     | ✅ Completed |
 | 02  | [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/13UC6M25X31H)     | ✅ Completed |
 | 03  | [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/CQQGALM9FEWH)     | ✅ Completed |
 | 04  | [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/ZYFYYHSXIW90)  | ✅ Completed |
